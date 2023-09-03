@@ -1,1 +1,1 @@
-just a standard static webpage lol.
+just a static webpage lol.
